@@ -44,7 +44,7 @@ Synthesis: The final result is synthesized from the numerical data and document-
 
 ⚙️ Installation
 
-Clone the Repository:
+1. Clone the Repository:
 
 Bash
 
@@ -52,7 +52,7 @@ git clone https://github.com/drsevin/smartaiassistant.git
 
 cd smartaiassistant
 
-Setup Ollama & Llama 3:
+2. Setup Ollama & Llama 3:
 
 Download Ollama from ollama.ai and pull the model:
 
@@ -60,13 +60,13 @@ Bash
 
 ollama run llama3
 
-Install Dependencies:
+3. Install Dependencies:
 
 Bash
 
 pip install -r requirements.txt
 
-Run the Application:
+4. Run the Application:
 
 Start Backend: uvicorn main:app --reload
 
