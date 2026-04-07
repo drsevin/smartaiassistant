@@ -48,9 +48,9 @@ Clone the Repository:
 
 Bash
 
-git clone https://github.com/yourusername/ai-data-analyst.git
+git clone https://github.com/drsevin/smartaiassistant.git
 
-cd ai-data-analyst
+cd smartaiassistant
 
 Setup Ollama & Llama 3:
 
